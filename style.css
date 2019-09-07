@@ -1,0 +1,19 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: rgb(138, 138, 138);
+  text-align: center;
+  color: #332c2c;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
