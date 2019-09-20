@@ -53,6 +53,28 @@ ul {
   font-weight: bold;
 }
 
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 1366px){
+  #image {
+    max-width: 100%;
+    width: 40rem;
+    height: auto;
+  }
+}
+
+@media (max-width: 1024px){
+  #image {
+    max-width: 100%;
+    width: 20rem;
+    height: auto;
+  }
+}
+
 a {
   color: #666fbe;
 }
